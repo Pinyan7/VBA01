@@ -4,4 +4,4 @@ Sub 解析取代的　→　Sub 解析用ABCD換行　→　Sub 解析一次用�
 
 會這麼設定是因為排版上有需求，在先後執行上的順序正確，可減少再多寫其他的巨集。此範例巨集需要用到word上的公版(因為排版部分使用樣式去更改)。
 
-實際範例詳見影片：https://www.youtube.com/watch?v=ZI-9Yj8PgN8
+實際範例詳見影片：https://youtu.be/Leo2MRYLeUY
